@@ -1,8 +1,8 @@
 {
-  "name": "getfeedback-component-library",
+  "name": "bourbon",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for getfeedback-component-library goes here",
+  "description": "GetFeedback Component Library and Visual Style Guide",
   "license": "MIT",
   "author": "",
   "directories": {
