@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'getfeedback-component-library',
+    modulePrefix: 'bourbon',
     environment,
     rootURL: '/',
     locationType: 'auto',
